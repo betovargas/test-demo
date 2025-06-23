@@ -39,7 +39,7 @@
         {
             "field": "format",
             "terms": { 
-                "image/jpeg": 2,
+                "image/jpeg": 14,
                 "model/mtl": 1,
                 "model/obj": 1,
                 "model/stl": 1,

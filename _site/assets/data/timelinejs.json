@@ -102,6 +102,110 @@
         "text": {
           "headline": null
         }
+      },{
+        "media": {
+          "url": "/Images/Reading_CCFront.png",
+          "caption": "Peace Key from Reading, Pennsylvania",
+          "link": "/items/8.html"
+        },
+        "start_date": { 
+          
+          "year": "2025"
+        },
+        "text": {
+          "headline": "Peace Key from Reading, Pennsylvania"
+        }
+      },{
+        "media": {
+          "url": "/Images/Reading_CCBack.png",
+          "caption": null,
+          "link": "/items/8.html#9"
+        },
+        "start_date": { 
+          
+          "year": "2025"
+        },
+        "text": {
+          "headline": null
+        }
+      },{
+        "media": {
+          "url": "/Images/Elkhart_CCFront.png",
+          "caption": "Peace Key from Elkhart, Indiana",
+          "link": "/items/10.html"
+        },
+        "start_date": { 
+          
+          "year": "2025"
+        },
+        "text": {
+          "headline": "Peace Key from Elkhart, Indiana"
+        }
+      },{
+        "media": {
+          "url": "/Images/Elkhart_CCBack.png",
+          "caption": null,
+          "link": "/items/10.html#11"
+        },
+        "start_date": { 
+          
+          "year": "2025"
+        },
+        "text": {
+          "headline": null
+        }
+      },{
+        "media": {
+          "url": "/Images/Perrysburg_CCFront.png",
+          "caption": "Peace Key from Perrysburg, Ohio",
+          "link": "/items/12.html"
+        },
+        "start_date": { 
+          
+          "year": "2025"
+        },
+        "text": {
+          "headline": "Peace Key from Perrysburg, Ohio"
+        }
+      },{
+        "media": {
+          "url": "/Images/Perrysburg_CCBack.png",
+          "caption": null,
+          "link": "/items/12.html#13"
+        },
+        "start_date": { 
+          
+          "year": "2025"
+        },
+        "text": {
+          "headline": null
+        }
+      },{
+        "media": {
+          "url": "/Images/Reading_CCFront.png",
+          "caption": "Peace Key from Ann Arbor, Michigan",
+          "link": "/items/14.html"
+        },
+        "start_date": { 
+          
+          "year": "2025"
+        },
+        "text": {
+          "headline": "Peace Key from Ann Arbor, Michigan"
+        }
+      },{
+        "media": {
+          "url": "/Images/Reading_CCFront.png",
+          "caption": null,
+          "link": "/items/14.html#15"
+        },
+        "start_date": { 
+          
+          "year": "2025"
+        },
+        "text": {
+          "headline": null
+        }
       }
     ]
 }

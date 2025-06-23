@@ -10,14 +10,35 @@
         "url": "https://liblab.swarthmore.edu/", 
         "logo": "" 
     },"date_start": "2024",
-    "date_end": "2024",
-    "objects": { null: "0"},
+    "date_end": "2025",
+    "objects": { null: "0","image/jpeg": "7"},
     "data": "http://localhost:4000/assets/data/datapackage.json",
-    "last_build_date": "2025-06-16"
+    "last_build_date": "2025-06-23"
 }, 
 "items":    
 [ 
     { "thumb": "http://localhost:4000/Images/bear.png","file": "http://localhost:4000/Images/bear.png","collectionid": "",
     "objectid": "1",
-    "url": "http://localhost:4000/items/1.html" }
+    "url": "http://localhost:4000/items/1.html" },
+    { "thumb": "http://localhost:4000/Images/Reading_CCFront.png","file": "http://localhost:4000/Images/Reading_CCFront.png","collectionid": "",
+    "objectid": "8",
+    "url": "http://localhost:4000/items/8.html" },
+    { "thumb": "http://localhost:4000/Images/Elkhart_CCFront.png","file": "http://localhost:4000/Images/Elkhart_CCFront.png","collectionid": "",
+    "objectid": "10",
+    "url": "http://localhost:4000/items/10.html" },
+    { "thumb": "http://localhost:4000/Images/Perrysburg_CCFront.png","file": "http://localhost:4000/Images/Perrysburg_CCFront.png","collectionid": "",
+    "objectid": "12",
+    "url": "http://localhost:4000/items/12.html" },
+    { "thumb": "http://localhost:4000/Images/Reading_CCFront.png","file": "http://localhost:4000/Images/Reading_CCFront.png","collectionid": "",
+    "objectid": "14",
+    "url": "http://localhost:4000/items/14.html" },
+    { "collectionid": "",
+    "objectid": "16",
+    "url": "http://localhost:4000/items/16.html" },
+    { "collectionid": "",
+    "objectid": "17",
+    "url": "http://localhost:4000/items/17.html" },
+    { "collectionid": "",
+    "objectid": "19",
+    "url": "http://localhost:4000/items/19.html" }
 ]}

@@ -275,7 +275,7 @@
         "creator": "AF",
         "date": "2024",
         
-        "date_is_approximate": "yes",
+        
         
         
         
@@ -329,7 +329,7 @@
         "creator": "AF",
         "date": "2024",
         
-        "date_is_approximate": "yes",
+        
         
         
         
@@ -365,7 +365,7 @@
         "format": "image/jpeg",
         
         "group": "artifact",
-        "display_template": "image",
+        
         
         "extension": "png",
         
@@ -375,6 +375,654 @@
         "object_thumb": "http://localhost:4000/Images/bear.png",
         "object_location": "http://localhost:4000/Images/bear.png",
         "reference_url": "http://localhost:4000/items/1.html#7"
+    },
+    { 
+        "objectid": "8",
+        
+        "title": "Peace Key from Reading, Pennsylvania",
+        "creator": "Do Ryu",
+        "date": "2025",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "count": "1",
+        
+        
+        
+        
+        "student_initials": "DY",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        "group": "multiple",
+        "display_template": "artifact_image",
+        
+        "extension": "png",
+        
+        
+        
+        
+        "object_thumb": "http://localhost:4000/Images/Reading_CCFront.png",
+        "object_location": "http://localhost:4000/Images/Reading_CCFront.png",
+        "reference_url": "http://localhost:4000/items/8.html"
+    },
+    { 
+        "objectid": "9",
+        "parentid": "8",
+        
+        
+        "date": "2025",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        "group": "artifact",
+        
+        
+        "extension": "png",
+        
+        
+        
+        
+        "object_thumb": "http://localhost:4000/Images/Reading_CCBack.png",
+        "object_location": "http://localhost:4000/Images/Reading_CCBack.png",
+        "reference_url": "http://localhost:4000/items/8.html#9"
+    },
+    { 
+        "objectid": "10",
+        
+        "title": "Peace Key from Elkhart, Indiana",
+        "creator": "Eve Umutoni",
+        "date": "2025",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "count": "1",
+        
+        
+        
+        
+        "student_initials": "EU ",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        "group": "multiple",
+        "display_template": "artifact_image",
+        
+        "extension": "png",
+        
+        
+        
+        
+        "object_thumb": "http://localhost:4000/Images/Elkhart_CCFront.png",
+        "object_location": "http://localhost:4000/Images/Elkhart_CCFront.png",
+        "reference_url": "http://localhost:4000/items/10.html"
+    },
+    { 
+        "objectid": "11",
+        "parentid": "10",
+        
+        
+        "date": "2025",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        "group": "artifact",
+        
+        
+        "extension": "png ",
+        
+        
+        
+        
+        "object_thumb": "http://localhost:4000/Images/Elkhart_CCBack.png",
+        "object_location": "http://localhost:4000/Images/Elkhart_CCBack.png",
+        "reference_url": "http://localhost:4000/items/10.html#11"
+    },
+    { 
+        "objectid": "12",
+        
+        "title": "Peace Key from Perrysburg, Ohio",
+        "creator": "RR",
+        "date": "2025",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "count": "1",
+        
+        
+        
+        
+        "student_initials": "RR",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        "group": "multiple",
+        "display_template": "artifact_image",
+        
+        "extension": "png",
+        
+        
+        
+        
+        "object_thumb": "http://localhost:4000/Images/Perrysburg_CCFront.png",
+        "object_location": "http://localhost:4000/Images/Perrysburg_CCFront.png",
+        "reference_url": "http://localhost:4000/items/12.html"
+    },
+    { 
+        "objectid": "13",
+        "parentid": "12",
+        
+        
+        "date": "2025",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        "group": "artifact",
+        
+        
+        "extension": "png",
+        
+        
+        
+        
+        "object_thumb": "http://localhost:4000/Images/Perrysburg_CCBack.png",
+        "object_location": "http://localhost:4000/Images/Perrysburg_CCBack.png",
+        "reference_url": "http://localhost:4000/items/12.html#13"
+    },
+    { 
+        "objectid": "14",
+        
+        "title": "Peace Key from Ann Arbor, Michigan",
+        "creator": "Do Ryu",
+        "date": "2025",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "count": "1",
+        
+        
+        
+        
+        "student_initials": "DY",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        "group": "multiple",
+        "display_template": "artifact_image",
+        
+        "extension": "png",
+        
+        
+        
+        
+        "object_thumb": "http://localhost:4000/Images/Reading_CCFront.png",
+        "object_location": "http://localhost:4000/Images/Reading_CCFront.png",
+        "reference_url": "http://localhost:4000/items/14.html"
+    },
+    { 
+        "objectid": "15",
+        "parentid": "14",
+        
+        
+        "date": "2025",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        "group": "artifact",
+        
+        
+        "extension": "png",
+        
+        
+        
+        
+        "object_thumb": "http://localhost:4000/Images/Reading_CCFront.png",
+        "object_location": "http://localhost:4000/Images/Reading_CCFront.png",
+        "reference_url": "http://localhost:4000/items/14.html#15"
+    },
+    { 
+        "objectid": "16",
+        
+        "title": "\"Liberty\" Printing Block",
+        "creator": "DR",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        "group": "artifact",
+        "display_template": "artifact_image",
+        
+        "extension": "png",
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "http://localhost:4000/items/16.html"
+    },
+    { 
+        "objectid": "17",
+        
+        "title": "Iraq War Protest Bus (Front)",
+        "creator": "DR",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        "group": "artifact",
+        "display_template": "artifact_image",
+        
+        "extension": "png",
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "http://localhost:4000/items/17.html"
+    },
+    { 
+        "objectid": "18",
+        "parentid": "17",
+        "title": "Iraq War Protest Bus (Back)",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        "group": "artifact",
+        
+        
+        "extension": "png",
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "http://localhost:4000/items/17.html#18"
+    },
+    { 
+        "objectid": "19",
+        
+        "title": "Peace Key (Wooden)",
+        "creator": "DR",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        "group": "artifact",
+        "display_template": "artifact_image",
+        
+        "extension": "png",
+        
+        
+        
+        
+        
+        "object_location": "",
+        "reference_url": "http://localhost:4000/items/19.html"
     }
     
 ] }
