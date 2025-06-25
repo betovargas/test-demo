@@ -23,3 +23,5 @@ objectid,parentid,title,creator,date,date_archival,date_is_approximate,descripti
 22,,Iraq War Protest Bus (Front),DR,,,,,,,,,,,,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,artifact,artifact_image,,,,png,,,,,,,
 23,22,Iraq War Protest Bus (Back),,,,,,,,,,,,,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,artifact,,,,,png,,,,,,,
 24,,Peace Key (Wooden),DR,,,,,,,,,,,,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,artifact,artifact_image,,,,png,,,,,,,
+25,,Barometer from the Golden Rule,RR,2025,,,,,,,,,,,,,,,,,1,,,,,RR,,,Image;StillImage,image/jpeg,,multiple,artifact_image,/Images/Barometer_Front.png,/Images/Barometer_Front.png,/Images/Barometer_Front.png,png,,,,,,,
+26,25,,,2025,,,,,,,,,,,,,,,,,,,,,,,,,Image;StillImage,image/jpeg,,artifact,,/Images/Barometer_Back.png,/Images/Barometer_Back.png,/Images/Barometer_Back.png,png,,,,,,,
