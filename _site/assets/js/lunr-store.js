@@ -3,31 +3,31 @@ var store = [{
 "id": "1.html"
 
 },{  
-"title": "Peace Key from Reading, Pennsylvania","date": "2025","creator": "Do Ryu", 
+"title": "Peace Key from Reading, Pennsylvania","date": "2025","creator": "RR", 
 "id": "8.html"
 
 },{  
 "title": "Peace Key from Elkhart, Indiana","date": "2025","creator": "Eve Umutoni", 
-"id": "10.html"
+"id": "15.html"
 
 },{  
 "title": "Peace Key from Perrysburg, Ohio","date": "2025","creator": "RR", 
-"id": "12.html"
-
-},{  
-"title": "Peace Key from Ann Arbor, Michigan","date": "2025","creator": "Do Ryu", 
-"id": "14.html"
-
-},{  
-"title": "\"Liberty\" Printing Block","creator": "DR", 
-"id": "16.html"
-
-},{  
-"title": "Iraq War Protest Bus (Front)","creator": "DR", 
 "id": "17.html"
 
 },{  
-"title": "Peace Key (Wooden)","creator": "DR", 
+"title": "Peace Key from Ann Arbor, Michigan","date": "2025","creator": "Do Ryu", 
 "id": "19.html"
+
+},{  
+"title": "\"Liberty\" Printing Block","creator": "DR", 
+"id": "21.html"
+
+},{  
+"title": "Iraq War Protest Bus (Front)","creator": "DR", 
+"id": "22.html"
+
+},{  
+"title": "Peace Key (Wooden)","creator": "DR", 
+"id": "24.html"
 
 }];

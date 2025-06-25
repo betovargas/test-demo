@@ -380,9 +380,10 @@
         "objectid": "8",
         
         "title": "Peace Key from Reading, Pennsylvania",
-        "creator": "Do Ryu",
+        "creator": "RR",
         "date": "2025",
         
+        "date_is_approximate": "yes",
         
         
         
@@ -393,8 +394,7 @@
         
         
         
-        
-        
+        "identifier": "Key",
         
         
         
@@ -412,7 +412,277 @@
         
         
         
-        "student_initials": "DY",
+        "student_initials": "RR",
+        
+        
+        "type": "InteractiveResource;3DObject",
+        
+        
+        "group": "model",
+        "display_template": "3d_model",
+        
+        "extension": "jpg",
+        
+        
+        
+        
+        "object_thumb": "http://localhost:4000/Images/Reading_CCFront.png",
+        "object_location": "http://localhost:4000/Images/Reading_CCFront.png",
+        "reference_url": "http://localhost:4000/items/8.html"
+    },
+    { 
+        "objectid": "9",
+        "parentid": "8",
+        
+        
+        "date": "2024",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "identifier": "Key",
+        
+        
+        
+        
+        
+        
+        
+        "material_source": "Emily",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "InteractiveResource;3DObject",
+        "format": "model/mtl",
+        
+        "group": "artifact",
+        "display_template": "3d_model_child",
+        
+        "extension": "glb",
+        
+        
+        
+        
+        
+        "object_location": "http://localhost:4000/Models/reading_key.glb",
+        "reference_url": "http://localhost:4000/items/8.html#9"
+    },
+    { 
+        "objectid": "10",
+        "parentid": "8",
+        
+        
+        "date": "2024",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "identifier": "Key",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "InteractiveResource;3DObject",
+        "format": "model/obj",
+        
+        "group": "artifact",
+        "display_template": "3d_model_child",
+        
+        "extension": "glb",
+        
+        
+        
+        
+        
+        "object_location": "http://localhost:4000/Models/reading_key.glb",
+        "reference_url": "http://localhost:4000/items/8.html#10"
+    },
+    { 
+        "objectid": "11",
+        "parentid": "8",
+        
+        
+        "date": "2024",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "identifier": "Key",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "InteractiveResource;3DObject",
+        "format": "model/stl",
+        
+        "group": "artifact",
+        "display_template": "3d_model_child",
+        
+        "extension": "glb",
+        
+        
+        
+        
+        
+        "object_location": "http://localhost:4000/Models/reading_key.glb",
+        "reference_url": "http://localhost:4000/items/8.html#11"
+    },
+    { 
+        "objectid": "12",
+        "parentid": "8",
+        
+        
+        "date": "2024",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "identifier": "Key",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "InteractiveResource;3DObject",
+        "format": "model/x3d",
+        
+        "group": "artifact",
+        "display_template": "3d_model_child",
+        
+        "extension": "glb",
+        
+        
+        
+        
+        
+        "object_location": "http://localhost:4000/Models/reading_key.glb",
+        "reference_url": "http://localhost:4000/items/8.html#12"
+    },
+    { 
+        "objectid": "13",
+        "parentid": "8",
+        
+        "creator": "RR",
+        "date": "2024",
+        
+        "date_is_approximate": "yes",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "identifier": "Key",
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "count": "1",
+        
+        
+        
+        
+        "student_initials": "RR",
         
         
         "type": "Image;StillImage",
@@ -428,18 +698,16 @@
         
         "object_thumb": "http://localhost:4000/Images/Reading_CCFront.png",
         "object_location": "http://localhost:4000/Images/Reading_CCFront.png",
-        "reference_url": "http://localhost:4000/items/8.html"
+        "reference_url": "http://localhost:4000/items/8.html#13"
     },
     { 
-        "objectid": "9",
+        "objectid": "14",
         "parentid": "8",
         
+        "creator": "RR",
+        "date": "2024",
         
-        "date": "2025",
-        
-        
-        
-        
+        "date_is_approximate": "yes",
         
         
         
@@ -450,7 +718,7 @@
         
         
         
-        
+        "identifier": "Key",
         
         
         
@@ -463,17 +731,19 @@
         
         
         
+        "count": "1",
         
         
         
         
+        "student_initials": "RR",
         
         
         "type": "Image;StillImage",
         "format": "image/jpeg",
         
         "group": "artifact",
-        
+        "display_template": "image",
         
         "extension": "png",
         
@@ -482,10 +752,10 @@
         
         "object_thumb": "http://localhost:4000/Images/Reading_CCBack.png",
         "object_location": "http://localhost:4000/Images/Reading_CCBack.png",
-        "reference_url": "http://localhost:4000/items/8.html#9"
+        "reference_url": "http://localhost:4000/items/8.html#14"
     },
     { 
-        "objectid": "10",
+        "objectid": "15",
         
         "title": "Peace Key from Elkhart, Indiana",
         "creator": "Eve Umutoni",
@@ -536,11 +806,11 @@
         
         "object_thumb": "http://localhost:4000/Images/Elkhart_CCFront.png",
         "object_location": "http://localhost:4000/Images/Elkhart_CCFront.png",
-        "reference_url": "http://localhost:4000/items/10.html"
+        "reference_url": "http://localhost:4000/items/15.html"
     },
     { 
-        "objectid": "11",
-        "parentid": "10",
+        "objectid": "16",
+        "parentid": "15",
         
         
         "date": "2025",
@@ -590,10 +860,10 @@
         
         "object_thumb": "http://localhost:4000/Images/Elkhart_CCBack.png",
         "object_location": "http://localhost:4000/Images/Elkhart_CCBack.png",
-        "reference_url": "http://localhost:4000/items/10.html#11"
+        "reference_url": "http://localhost:4000/items/15.html#16"
     },
     { 
-        "objectid": "12",
+        "objectid": "17",
         
         "title": "Peace Key from Perrysburg, Ohio",
         "creator": "RR",
@@ -644,11 +914,11 @@
         
         "object_thumb": "http://localhost:4000/Images/Perrysburg_CCFront.png",
         "object_location": "http://localhost:4000/Images/Perrysburg_CCFront.png",
-        "reference_url": "http://localhost:4000/items/12.html"
+        "reference_url": "http://localhost:4000/items/17.html"
     },
     { 
-        "objectid": "13",
-        "parentid": "12",
+        "objectid": "18",
+        "parentid": "17",
         
         
         "date": "2025",
@@ -698,10 +968,10 @@
         
         "object_thumb": "http://localhost:4000/Images/Perrysburg_CCBack.png",
         "object_location": "http://localhost:4000/Images/Perrysburg_CCBack.png",
-        "reference_url": "http://localhost:4000/items/12.html#13"
+        "reference_url": "http://localhost:4000/items/17.html#18"
     },
     { 
-        "objectid": "14",
+        "objectid": "19",
         
         "title": "Peace Key from Ann Arbor, Michigan",
         "creator": "Do Ryu",
@@ -752,11 +1022,11 @@
         
         "object_thumb": "http://localhost:4000/Images/Reading_CCFront.png",
         "object_location": "http://localhost:4000/Images/Reading_CCFront.png",
-        "reference_url": "http://localhost:4000/items/14.html"
+        "reference_url": "http://localhost:4000/items/19.html"
     },
     { 
-        "objectid": "15",
-        "parentid": "14",
+        "objectid": "20",
+        "parentid": "19",
         
         
         "date": "2025",
@@ -806,10 +1076,10 @@
         
         "object_thumb": "http://localhost:4000/Images/Reading_CCFront.png",
         "object_location": "http://localhost:4000/Images/Reading_CCFront.png",
-        "reference_url": "http://localhost:4000/items/14.html#15"
+        "reference_url": "http://localhost:4000/items/19.html#20"
     },
     { 
-        "objectid": "16",
+        "objectid": "21",
         
         "title": "\"Liberty\" Printing Block",
         "creator": "DR",
@@ -860,10 +1130,10 @@
         
         
         "object_location": "",
-        "reference_url": "http://localhost:4000/items/16.html"
+        "reference_url": "http://localhost:4000/items/21.html"
     },
     { 
-        "objectid": "17",
+        "objectid": "22",
         
         "title": "Iraq War Protest Bus (Front)",
         "creator": "DR",
@@ -914,11 +1184,11 @@
         
         
         "object_location": "",
-        "reference_url": "http://localhost:4000/items/17.html"
+        "reference_url": "http://localhost:4000/items/22.html"
     },
     { 
-        "objectid": "18",
-        "parentid": "17",
+        "objectid": "23",
+        "parentid": "22",
         "title": "Iraq War Protest Bus (Back)",
         
         
@@ -968,10 +1238,10 @@
         
         
         "object_location": "",
-        "reference_url": "http://localhost:4000/items/17.html#18"
+        "reference_url": "http://localhost:4000/items/22.html#23"
     },
     { 
-        "objectid": "19",
+        "objectid": "24",
         
         "title": "Peace Key (Wooden)",
         "creator": "DR",
@@ -1022,7 +1292,7 @@
         
         
         "object_location": "",
-        "reference_url": "http://localhost:4000/items/19.html"
+        "reference_url": "http://localhost:4000/items/24.html"
     }
     
 ] }

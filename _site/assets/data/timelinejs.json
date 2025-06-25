@@ -117,13 +117,78 @@
         }
       },{
         "media": {
-          "url": "/Images/Reading_CCBack.png",
+          "url": "/Models/reading_key.glb",
           "caption": null,
           "link": "/items/8.html#9"
         },
         "start_date": { 
           
-          "year": "2025"
+          "year": "2024"
+        },
+        "text": {
+          "headline": null
+        }
+      },{
+        "media": {
+          "url": "/Models/reading_key.glb",
+          "caption": null,
+          "link": "/items/8.html#10"
+        },
+        "start_date": { 
+          
+          "year": "2024"
+        },
+        "text": {
+          "headline": null
+        }
+      },{
+        "media": {
+          "url": "/Models/reading_key.glb",
+          "caption": null,
+          "link": "/items/8.html#11"
+        },
+        "start_date": { 
+          
+          "year": "2024"
+        },
+        "text": {
+          "headline": null
+        }
+      },{
+        "media": {
+          "url": "/Models/reading_key.glb",
+          "caption": null,
+          "link": "/items/8.html#12"
+        },
+        "start_date": { 
+          
+          "year": "2024"
+        },
+        "text": {
+          "headline": null
+        }
+      },{
+        "media": {
+          "url": "/Images/Reading_CCFront.png",
+          "caption": null,
+          "link": "/items/8.html#13"
+        },
+        "start_date": { 
+          
+          "year": "2024"
+        },
+        "text": {
+          "headline": null
+        }
+      },{
+        "media": {
+          "url": "/Images/Reading_CCBack.png",
+          "caption": null,
+          "link": "/items/8.html#14"
+        },
+        "start_date": { 
+          
+          "year": "2024"
         },
         "text": {
           "headline": null
@@ -132,7 +197,7 @@
         "media": {
           "url": "/Images/Elkhart_CCFront.png",
           "caption": "Peace Key from Elkhart, Indiana",
-          "link": "/items/10.html"
+          "link": "/items/15.html"
         },
         "start_date": { 
           
@@ -145,7 +210,7 @@
         "media": {
           "url": "/Images/Elkhart_CCBack.png",
           "caption": null,
-          "link": "/items/10.html#11"
+          "link": "/items/15.html#16"
         },
         "start_date": { 
           
@@ -158,7 +223,7 @@
         "media": {
           "url": "/Images/Perrysburg_CCFront.png",
           "caption": "Peace Key from Perrysburg, Ohio",
-          "link": "/items/12.html"
+          "link": "/items/17.html"
         },
         "start_date": { 
           
@@ -171,7 +236,7 @@
         "media": {
           "url": "/Images/Perrysburg_CCBack.png",
           "caption": null,
-          "link": "/items/12.html#13"
+          "link": "/items/17.html#18"
         },
         "start_date": { 
           
@@ -184,7 +249,7 @@
         "media": {
           "url": "/Images/Reading_CCFront.png",
           "caption": "Peace Key from Ann Arbor, Michigan",
-          "link": "/items/14.html"
+          "link": "/items/19.html"
         },
         "start_date": { 
           
@@ -197,7 +262,7 @@
         "media": {
           "url": "/Images/Reading_CCFront.png",
           "caption": null,
-          "link": "/items/14.html#15"
+          "link": "/items/19.html#20"
         },
         "start_date": { 
           

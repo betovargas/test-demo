@@ -20,5 +20,10 @@
         OV.SetExternalLibLocation ('libs');
         // init all viewers on the page
         OV.Init3DViewerElements ();
+        //Attempt to brighten the 3D object but no visible difference
+        let viewer = new OV.EmbeddedViewer (parentDiv, {
+            backgroundColor : new OV.RGBAColor (255, 255, 255, 255),
+            defaultColor : new OV.RGBColor (0, 0, 0)
+        });
     });
 </script>

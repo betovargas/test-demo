@@ -11,9 +11,9 @@
         "logo": "" 
     },"date_start": "2024",
     "date_end": "2025",
-    "objects": { null: "0","image/jpeg": "7"},
+    "objects": { null: "0","image/jpeg": "6"},
     "data": "http://localhost:4000/assets/data/datapackage.json",
-    "last_build_date": "2025-06-23"
+    "last_build_date": "2025-06-25"
 }, 
 "items":    
 [ 
@@ -24,21 +24,21 @@
     "objectid": "8",
     "url": "http://localhost:4000/items/8.html" },
     { "thumb": "http://localhost:4000/Images/Elkhart_CCFront.png","file": "http://localhost:4000/Images/Elkhart_CCFront.png","collectionid": "",
-    "objectid": "10",
-    "url": "http://localhost:4000/items/10.html" },
+    "objectid": "15",
+    "url": "http://localhost:4000/items/15.html" },
     { "thumb": "http://localhost:4000/Images/Perrysburg_CCFront.png","file": "http://localhost:4000/Images/Perrysburg_CCFront.png","collectionid": "",
-    "objectid": "12",
-    "url": "http://localhost:4000/items/12.html" },
-    { "thumb": "http://localhost:4000/Images/Reading_CCFront.png","file": "http://localhost:4000/Images/Reading_CCFront.png","collectionid": "",
-    "objectid": "14",
-    "url": "http://localhost:4000/items/14.html" },
-    { "collectionid": "",
-    "objectid": "16",
-    "url": "http://localhost:4000/items/16.html" },
-    { "collectionid": "",
     "objectid": "17",
     "url": "http://localhost:4000/items/17.html" },
-    { "collectionid": "",
+    { "thumb": "http://localhost:4000/Images/Reading_CCFront.png","file": "http://localhost:4000/Images/Reading_CCFront.png","collectionid": "",
     "objectid": "19",
-    "url": "http://localhost:4000/items/19.html" }
+    "url": "http://localhost:4000/items/19.html" },
+    { "collectionid": "",
+    "objectid": "21",
+    "url": "http://localhost:4000/items/21.html" },
+    { "collectionid": "",
+    "objectid": "22",
+    "url": "http://localhost:4000/items/22.html" },
+    { "collectionid": "",
+    "objectid": "24",
+    "url": "http://localhost:4000/items/24.html" }
 ]}

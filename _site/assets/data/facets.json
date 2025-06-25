@@ -33,17 +33,17 @@
         {
             "field": "material_source",
             "terms": { 
-                "emily": 1
+                "emily": 2
             }
         },
         {
             "field": "format",
             "terms": { 
                 "image/jpeg": 14,
-                "model/mtl": 1,
-                "model/obj": 1,
-                "model/stl": 1,
-                "model/x3d": 1
+                "model/mtl": 2,
+                "model/obj": 2,
+                "model/stl": 2,
+                "model/x3d": 2
             }
         }
         
