@@ -20,7 +20,20 @@
         // viewer element 
         var viewerDiv = document.getElementById("modelViewer");
         // init viewer
-        o3dv = new OV.EmbeddedViewer(viewerDiv);
+        o3dv = new OV.EmbeddedViewer(viewerDiv, {
+            backgroundColor : new OV.RGBAColor (255, 255, 255, 255),
+            environmentSettings : new OV.EnvironmentSettings (
+            [
+                '/assets/lib/o3dv/envmaps/fishermans_bastion/posx.jpg',
+                '/assets/lib/o3dv/envmaps/fishermans_bastion/negx.jpg',
+                '/assets/lib/o3dv/envmaps/fishermans_bastion/posy.jpg',
+                '/assets/lib/o3dv/envmaps/fishermans_bastion/negy.jpg',
+                '/assets/lib/o3dv/envmaps/fishermans_bastion/posz.jpg',
+                '/assets/lib/o3dv/envmaps/fishermans_bastion/negz.jpg'
+            ],
+            true
+        )
+        });
         var modelOption = document.querySelector('input[name=modelOption]:checked').value.split(",");
         o3dv.LoadModelFromUrlList(modelOption);
         
