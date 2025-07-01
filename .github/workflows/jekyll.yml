@@ -38,7 +38,7 @@ jobs:
         # https://github.com/ruby/setup-ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'      # ensure Ruby ≥ 3.2 for sass-embedded compatibility
+          ruby-version: '3.4.4'      # ensure Ruby ≥ 3.2 for sass-embedded compatibility
           bundler-cache: true      # automatically runs 'bundle install' and caches gems
           cache-version: 0         # bump this if you need to invalidate the gem cache
 
