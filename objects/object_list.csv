@@ -1,0 +1,17 @@
+filename,object_location,image_small,image_thumb
+AnnArbor_CCBack.png,/objects/AnnArbor_CCBack.png,/objects/small/annarbor_ccback_sm.jpg,/objects/thumbs/annarbor_ccback_th.jpg
+AnnArbor_CCFront.png,/objects/AnnArbor_CCFront.png,/objects/small/annarbor_ccfront_sm.jpg,/objects/thumbs/annarbor_ccfront_th.jpg
+Barometer_Back.png,/objects/Barometer_Back.png,/objects/small/barometer_back_sm.jpg,/objects/thumbs/barometer_back_th.jpg
+Barometer_Front.png,/objects/Barometer_Front.png,/objects/small/barometer_front_sm.jpg,/objects/thumbs/barometer_front_th.jpg
+Elkhart_CCBack.png,/objects/Elkhart_CCBack.png,/objects/small/elkhart_ccback_sm.jpg,/objects/thumbs/elkhart_ccback_th.jpg
+Elkhart_CCFront.png,/objects/Elkhart_CCFront.png,/objects/small/elkhart_ccfront_sm.jpg,/objects/thumbs/elkhart_ccfront_th.jpg
+JANobel_Back.png,/objects/JANobel_Back.png,/objects/small/janobel_back_sm.jpg,/objects/thumbs/janobel_back_th.jpg
+JANobel_Front.png,/objects/JANobel_Front.png,/objects/small/janobel_front_sm.jpg,/objects/thumbs/janobel_front_th.jpg
+Perrysburg_CCBack.png,/objects/Perrysburg_CCBack.png,/objects/small/perrysburg_ccback_sm.jpg,/objects/thumbs/perrysburg_ccback_th.jpg
+Perrysburg_CCFront.png,/objects/Perrysburg_CCFront.png,/objects/small/perrysburg_ccfront_sm.jpg,/objects/thumbs/perrysburg_ccfront_th.jpg
+Reading_CCBack.png,/objects/Reading_CCBack.png,/objects/small/reading_ccback_sm.jpg,/objects/thumbs/reading_ccback_th.jpg
+Reading_CCFront.png,/objects/Reading_CCFront.png,/objects/small/reading_ccfront_sm.jpg,/objects/thumbs/reading_ccfront_th.jpg
+bear.png,/objects/bear.png,/objects/small/bear_sm.jpg,/objects/thumbs/bear_th.jpg
+preview_bus.png,/objects/preview_bus.png,/objects/small/preview_bus_sm.jpg,/objects/thumbs/preview_bus_th.jpg
+preview_key.png,/objects/preview_key.png,/objects/small/preview_key_sm.jpg,/objects/thumbs/preview_key_th.jpg
+preview_printingblock.png,/objects/preview_printingblock.png,/objects/small/preview_printingblock_sm.jpg,/objects/thumbs/preview_printingblock_th.jpg
