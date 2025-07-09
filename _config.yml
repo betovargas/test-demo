@@ -18,16 +18,16 @@ source-code: https://github.com/swat-ds/liblab_peace_collections/
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Swarthmore College's Peace Collection
+title: Swarthmore College Peace Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection 
+tagline: Archive of non-governmental efforts for nonviolent social change, disarmament, and conflict resolution.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Description"
+description: "Archive of non-governmental efforts for nonviolent social change, disarmament, and conflict resolution."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: swat; nice; lol
+keywords: swat; nice; lol; peace; collection;
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: swat-ds
 
 ##########
 # COLLECTION SETTINGS
