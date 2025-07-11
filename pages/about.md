@@ -17,23 +17,57 @@ credits: true
 
 ## Project Staff
 
-| Amanda Licastro, PhD |
-| -------------------- |
-| Placeholder          |
-
-| Riya Rao, Swat '26       |
-| ------------------------ |
-| Placeholder              |
-
-| Do Young Ryu, Swat '27 |
-| --------------------   |
-| Placeholder            |
-
-| Eve Umutoni, Swat '28 |
-| --------------------- |
-| Placeholder           |
+<div class="card" style="width: 41rem; margin: 0px auto;">
+  <div class="card-body">
+    <h5 class="card-title">Amanda Licastro, PhD</h5>
+    <h6 class="card-subtitle mb-2 text-muted">Head of Digital Scholarship Strategies, Project Lead</h6>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="card-link">Personal Website</a>
+  </div>
+</div>
+<br>
+<div class="card" style="width: 41rem; margin: 0px auto;">
+  <div class="card-body">
+    <h5 class="card-title">Roberto Vargas, MA</h5>
+    <h6 class="card-subtitle mb-2 text-muted">Head of Research and Instructional Services, Tech Lead</h6>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="card-link">Personal Website</a>
+  </div>
+</div>
+<br>
+<div class="card" style="width: 41rem; margin: 0px auto;">
+  <div class="card-body">
+    <h5 class="card-title">Riya Rao, Swat '26</h5>
+    <h6 class="card-subtitle mb-2 text-muted">CollectionBuilder Development, LibLab Docs Development, 3D Scanning Lead</h6>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+<br>
+<div class="card" style="width: 41rem; margin: 0px auto;">
+  <div class="card-body">
+    <h5 class="card-title">Do Young Ryu, Swat '27</h5>
+    <h6 class="card-subtitle mb-2 text-muted">CollectionBuilder Development, LibLab Docs Development, 3D Processing Lead</h6>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+<br>
+<div class="card" style="width: 41rem; margin: 0px auto;">
+  <div class="card-body">
+    <h5 class="card-title">Eve Umutoni, Swat '28</h5>
+    <h6 class="card-subtitle mb-2 text-muted">CollectionBuilder Development, 2D Scanning Lead, Islandora Team Member</h6>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+<br>
 
 ## Acknowledgements
+
+&nbsp;&nbsp;&nbsp;&nbsp;This project would not have been possible without the support of many people, from both Swarthmore College and external institutions. These include Laura Melbourne and her team at the Peace Collection, Annette Newman, Emily Kopin, James Truitt, Jeremy Polk, Josh Jordan, Ahmad Fayyaz, Opeyemi Ogundele and our colleagues at the Swarthmore Libraries Special Collections and the Tri-Co Libraries Digital Collections.
+
+&nbsp;&nbsp;&nbsp;&nbsp;We also want to thank Mohamed Abdlaziz, PhD and Bernard Frischer, PhD from Flyover Zone for sharing their invaluable expertise in 3D preservation and photogrammetry. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;We also want to give a shout out to Tolga Bozkurt, and wish the best of luck on his efforts to digitize specimens at the Biology department.
+
 
 ## Questions?
 &nbsp;&nbsp;&nbsp;&nbsp;Contact the Swarthmore Digital Scholarship team at *digitalscholarship@swarthmore.edu* if you have any questions about the collection.
