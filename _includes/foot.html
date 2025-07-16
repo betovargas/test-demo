@@ -1,12 +1,12 @@
 <!-- Bootstrap bundle JS -->
 <script
-  src="/assets/js/bootstrap.bundle.min.js"
+  src="{{site.baseurl}}/assets/js/bootstrap.bundle.min.js"
 ></script>
 <!-- load other js -->
 <script
-  src="/assets/js/lazysizes.min.js"
+  src="{{site.baseurl}}/assets/js/lazysizes.min.js"
 ></script>
-{% if layout.gallery == true or page.gallery == true %}<script src="/assets/js/spotlight.bundle.js" defer></script>{% endif %}
+{% if layout.gallery == true or page.gallery == true %}<script src="{{site.baseurl}}/assets/js/spotlight.bundle.js" defer></script>{% endif %}
 {% if page.custom-foot or layout.custom-foot %}
 {%- assign page_feet = page.custom-foot | split: ";" -%}
 {%- assign layout_feet = layout.custom-foot | split: ";" -%}
