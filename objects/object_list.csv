@@ -16,6 +16,10 @@ Perrysburg_CCFront.png,/objects/Perrysburg_CCFront.png,/objects/small/perrysburg
 Reading_CCBack.png,/objects/Reading_CCBack.png,/objects/small/reading_ccback_sm.jpg,/objects/thumbs/reading_ccback_th.jpg
 Reading_CCFront.png,/objects/Reading_CCFront.png,/objects/small/reading_ccfront_sm.jpg,/objects/thumbs/reading_ccfront_th.jpg
 bear.png,/objects/bear.png,/objects/small/bear_sm.jpg,/objects/thumbs/bear_th.jpg
+bus_back.JPG,/objects/bus_back.JPG,/objects/small/bus_back_sm.jpg,/objects/thumbs/bus_back_th.jpg
+bus_front.JPG,/objects/bus_front.JPG,/objects/small/bus_front_sm.jpg,/objects/thumbs/bus_front_th.jpg
 preview_bus.png,/objects/preview_bus.png,/objects/small/preview_bus_sm.jpg,/objects/thumbs/preview_bus_th.jpg
 preview_key.png,/objects/preview_key.png,/objects/small/preview_key_sm.jpg,/objects/thumbs/preview_key_th.jpg
 preview_printingblock.png,/objects/preview_printingblock.png,/objects/small/preview_printingblock_sm.jpg,/objects/thumbs/preview_printingblock_th.jpg
+printblock_back.png,/objects/printblock_back.png,/objects/small/printblock_back_sm.jpg,/objects/thumbs/printblock_back_th.jpg
+printblock_front.png,/objects/printblock_front.png,/objects/small/printblock_front_sm.jpg,/objects/thumbs/printblock_front_th.jpg
