@@ -17,13 +17,13 @@
 
 {% if site.data.theme.font-cdn %}{{ site.data.theme.font-cdn }}
 {% elsif jekyll.environment == "production" %}
-<link href="../assets/css/font-production.css" rel="stylesheet">
+<link href="/assets/css/font-production.css" rel="stylesheet">
 {% else %}
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 {% endif %}<!-- Bootstrap 5 CSS from jsDelivr -->
 <link
   rel="stylesheet"
-  href="assets/css/bootstrap.min.css"
+  href="/assets/css/bootstrap.min.css"
   crossorigin="anonymous"
   type="text/css"
 />
