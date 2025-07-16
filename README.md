@@ -2,9 +2,9 @@ Todo:
 
 Check incoming image source(s) - '26 team, please check for missing ext.
 
-3. Model management, get external resources from Islandora
-6. Filler content (descriptions, about, how?/when etc.) - in progress
+3. Model management, get external resources from Islandora - waiting for emily
 
+6. Filler content (descriptions, about, how?/when etc.) - in progress
 8. Files cleanup, add commenting - in progress
 9. Link documentation website - in progress
 
