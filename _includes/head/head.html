@@ -17,13 +17,13 @@
 
 {% if site.data.theme.font-cdn %}{{ site.data.theme.font-cdn }}
 {% elsif jekyll.environment == "production" %}
-<link href="/assets/css/font-production.css" rel="stylesheet">
+<link href="./assets/css/font-production.css" rel="stylesheet">
 {% else %}
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 {% endif %}<!-- Bootstrap 5 CSS from jsDelivr -->
 <link
   rel="stylesheet"
-  href="../assets/css/bootstrap.min.css"
+  href="./assets/css/bootstrap.min.css"
   crossorigin="anonymous"
   type="text/css"
 />
@@ -32,7 +32,7 @@
   <!-- DataTables CSS from jsDelivr -->
   <link
     rel="stylesheet"
-    href="../assets/css/jquery.dataTables.min.css"    
+    href="./assets/css/jquery.dataTables.min.css"    
     crossorigin="anonymous"
     type="text/css"
   >
@@ -42,20 +42,20 @@
   <!-- Leaflet CSS from Unpkg -->
   <link
     rel="stylesheet"
-    href="../assets/css/leaflet.css"
+    href="./assets/css/leaflet.css"
     crossorigin=""
   >
   <!-- Leaflet Fullscreen CSS from jsDelivr -->
   <link
     rel="stylesheet"
-    href="../assets/css/leaflet.fullscreen.css"
+    href="./assets/css/leaflet.fullscreen.css"
     crossorigin="anonymous"
   >
   {% if site.data.theme.map-search == true %}
     <!-- Leaflet FuseSearch CSS from jsDelivr -->
     <link
       rel="stylesheet"
-      href="../assets/css/leaflet.fusesearch.css"
+      href="./assets/css/leaflet.fusesearch.css"
       crossorigin="anonymous"
     >
   {% endif %}
@@ -63,12 +63,12 @@
     <!-- Leaflet MarkerCluster CSS from Unpkg -->
     <link
       rel="stylesheet"
-      href="../assets/css/MarkerCluster.css"
+      href="./assets/css/MarkerCluster.css"
       crossorigin=""
     >
     <link
       rel="stylesheet"
-      href="../assets/css/MarkerCluster.Default.css"
+      href="./assets/css/MarkerCluster.Default.css"
       crossorigin=""
     >
   {% endif %}
