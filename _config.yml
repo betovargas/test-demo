@@ -10,7 +10,7 @@
 # site domain, full URL to the production location of your collection
 url: https://swat-ds.github.io/liblab_peace_collections
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl:
+baseurl: /liblab_peace_collections
 # location of code, the full url to your github repository
 source-code: https://github.com/swat-ds/liblab_peace_collections/
 
