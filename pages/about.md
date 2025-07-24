@@ -37,6 +37,15 @@ credits: true
 <br>
 <div class="card" style="width: 41rem; margin: 0px auto;">
   <div class="card-body">
+    <h5 class="card-title">Laura Melbourne, MA</h5>
+    <h6 class="card-subtitle mb-2 text-muted">Public Services Archivist</h6>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="card-link">Personal Website</a>
+  </div>
+</div>
+<br>
+<div class="card" style="width: 41rem; margin: 0px auto;">
+  <div class="card-body">
     <h5 class="card-title">Riya Rao, Swat '26</h5>
     <h6 class="card-subtitle mb-2 text-muted">CollectionBuilder Development, LibLab Docs Development, 3D Scanning Lead</h6>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
