@@ -13,5 +13,13 @@
     {% include footer.html %}
     {% include foot.html %}
     {% include scroll-to-top.html %}
+    {% if page.uses_react %}
+      <!-- React CDN-->
+      <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+      <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+      
+      <!-- Where component scripts would go-->
+      <script src="{{ '/assets/js/your-react-component.js' | relative_url }}"></script>
+    {% endif %}
   </body>
 </html>
